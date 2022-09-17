@@ -1,0 +1,46 @@
+.container{
+    margin-top:10px;
+    text-align: justify;
+    width: 900px;
+    margin-left:auto;
+    margin-right:auto;
+    height:620px; 
+}
+.header{
+    margin:10px;
+    background-color: #12AAFF;
+    width: 880px;
+    HEIGHT: 50px;
+    float:left;
+    padding-left: 10px;
+    padding-top: 10px;
+
+}
+
+.izquierdo{
+    text-align: center;
+    background-color: #12aaff;
+    margin:10px;
+    height: 800px;
+    width: 100px;;
+    float:left;
+
+}
+
+.derecho{
+    margin-top:10px;
+    margin-right:10px;
+    height: 400px;
+    width:216px; 
+    float:left;
+
+}
+
+.inferior{
+    margin:10px;
+    height:50px;
+    float:left;
+    width:880px;
+}
+
+
